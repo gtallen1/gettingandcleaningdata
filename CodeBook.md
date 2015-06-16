@@ -11,6 +11,7 @@ variables for loading data:
 8. activity         loads activity_labels.txt
 
 variables for merging data:
+
 1. mergeData        merges dataTrain and dataTest
 2. mergeLabel       merges labelTrain and labelTest
 3. mergeSubject     merges subjectTrain and subjectTest
